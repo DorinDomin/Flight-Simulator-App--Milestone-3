@@ -1,5 +1,11 @@
 # -Flight-Simulator-App--Milestone-3
-Purpose of this extercise- we created an interface for the operation of an aircraft. Our plain response to instructions from the user regarding the rudder and the variouse control surfaces. The simulartor is desplayed as graphical interface of the cockpit, as shown in the picture below:
+* Purpose of this extercise- we created an interface for the operation of an aircraft. Our plain response to instructions from the user regarding the rudder and the variouse control surfaces. The simulartor is desplayed as graphical interface of the cockpit.
+
+* Four control surfaces:
+  - Joystick: Steering wheel 
+  - steering wheel direction can be controlled using right and left keys. 
+  - Elevator - rudder can be controlled using up and down keys.
+  - Sliders: Aileron - balances Throttle - throttle
 
 ## Usage
 
